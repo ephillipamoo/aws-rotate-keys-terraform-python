@@ -29,7 +29,7 @@ This project sets up an AWS Lambda function to automatically rotate an IAM user'
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/aws-key-rotation.git
+git clone https://github.com/ephillipamoo/aws-key-rotation.git
 cd aws-key-rotation/terraform
 
 
